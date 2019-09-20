@@ -1,3 +1,7 @@
+# React App - Consume API
+
+React web application that consumes a API in a simple way.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
